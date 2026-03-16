@@ -1,0 +1,6 @@
+container_bot:
+  ros__paramters:
+    speed: 0.2                                # in m/s
+    angular_velocity: 1.0                     # in deg/s
+    check_points: 50
+    
